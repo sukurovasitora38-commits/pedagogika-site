@@ -14,9 +14,12 @@
     <div class="logo">Pedagogika</div>
     <nav>
       <a href="#home">Bosh sahifa</a>
-      <a href="#plans">O‘quv rejalar</a>
-      <a href="#materials">Materiallar</a>
-      <a href="#contact">Bog‘lanish</a>
+      <a href="#plans">Kafedra yangiliklari</a>
+      <a href="#materials">DTS</a>
+      <a href="#contact">Malaka talablari</a>
+      <a href="#contact">O`quv rejalar</a>
+      <a href="#contact">Fan dasturlari</a>
+      <a href="#contact">Kafedra yuklamasi</a>
     </nav>
   </div>
 </header>
@@ -24,7 +27,7 @@
 <section id="home" class="hero">
   <div class="container">
     <h1>Pedagogika va O‘qitish Metodikasi</h1>
-    <p>O‘quv rejalar, dars ishlanmalari, interaktiv metodlar va uslubiy материаллар — бир жойда.</p>
+    <p>O‘quv rejalar, Fan dasturlari, Kafedra yuklamasi — бир жойда.</p>
     <a href="#plans" class="btn">О‘quv rejalarni ko‘rish</a>
   </div>
 </section>
@@ -34,19 +37,14 @@
     <h2>📚 O‘quv rejalar</h2>
     <div class="grid">
       <div class="card">
-        <h3>1-sinf — Matematika</h3>
-        <p>Haftalik reja, mavzular va dars maqsadlari.</p>
+        <h3>Pedagogika</h3>
+        <p>Darsliklar.</p>
         <a class="btn small" href="#">Yuklab olish (PDF)</a>
       </div>
       <div class="card">
-        <h3>2-sinf — Ona tili</h3>
-        <p>Dars soatlari, mavzular ва baholash mezonlari.</p>
+        <h3>Psixologiya</h3>
+        <p>Darsliklar</p>
         <a class="btn small" href="#">Yuklab olish (PDF)</a>
-      </div>
-      <div class="card">
-        <h3>3–4 sinflar</h3>
-        <p>Yangi dars ishlanmalari ва metodик tavsiyalar.</p>
-        <a class="btn small" href="#">Ko‘rish</a>
       </div>
     </div>
   </div>
